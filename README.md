@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman lamba</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1cNt7kdnKZtf_Iynf7sCmf&ust=1687147868879000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCEup75y_8CFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanlamba002&label=Profile%20views&color=0e75b6&style=flat" alt="amanlamba002" /> </p>
 
 - 🔭 I’m currently working on **Laptop Sale prediction using machine learning**
